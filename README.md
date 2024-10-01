@@ -17,6 +17,7 @@
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
+ ![World](https://raw.githubusercontent.com/leulwolde/Sentinel-Lab/refs/heads/main/rdp_hack%20attempts_map.png)
 </p>
 
 
